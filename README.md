@@ -12,6 +12,7 @@
 ## Codeforces Round #548 (Div. 2)
 	A. Even Substrings
 	B. Chocoltes
+	C. Edgy Trees
 	-> 2 / 6 (2019.03.22)
 	
 # Practice
@@ -31,3 +32,8 @@
 	E. Yet Another Ball Problem
 	F1. Tree Cutting (Easy) - Python X
 	
+## Codeforces Round #535 (Div. 3)
+	A. Two distinct points
+	B. Divisors of Two Integers
+	C. Nice Garland
+	D. Diverse Garland
