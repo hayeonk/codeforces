@@ -37,3 +37,10 @@
 	B. Divisors of Two Integers
 	C. Nice Garland
 	D. Diverse Garland
+	E1. Array and Segments (Easy)
+	
+## Codeforces Round #550 (Div. 3)
+	A. Diverse Strings
+	B. Parity Alternated Deletions
+	C. Two Shuffled Sequences
+	D. Equalize Them All
