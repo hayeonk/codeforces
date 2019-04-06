@@ -15,6 +15,13 @@
 	C. Edgy Trees
 	-> 2 / 6 (2019.03.22)
 	
+## Codeforces Global Round 2
+	A. Ilya and a Colorful Walk
+	B. Alyona and a Narrow Fridge
+	C. Ramesses and Corner Inversion
+	D. Frets On Fire
+	-> 3 / 8 (2019.04.06)
+	
 # Practice
 ## Codeforces Round #544 (Div. 3)
 	A. Middle of the Contest
