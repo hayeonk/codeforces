@@ -20,6 +20,7 @@
 	B. Alyona and a Narrow Fridge
 	C. Ramesses and Corner Inversion
 	D. Frets On Fire
+	E. Pavel and Triangles
 	-> 3 / 8 (2019.04.06)
 	
 # Practice
@@ -51,3 +52,5 @@
 	B. Parity Alternated Deletions
 	C. Two Shuffled Sequences
 	D. Equalize Them All
+	E. Median String
+	F. Graph Without Long Directed Paths
