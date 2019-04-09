@@ -54,3 +54,8 @@
 	D. Equalize Them All
 	E. Median String
 	F. Graph Without Long Directed Paths
+
+## Codeforces Round #531 (Div. 3)
+	A. Integer Sequence Dividing
+	B. Array K-Coloring
+	C. Doors Breaking and Repairing
