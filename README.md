@@ -59,3 +59,4 @@
 	A. Integer Sequence Dividing
 	B. Array K-Coloring
 	C. Doors Breaking and Repairing
+	D. Balanced Ternary String
