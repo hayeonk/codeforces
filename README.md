@@ -22,6 +22,14 @@
 	D. Frets On Fire
 	E. Pavel and Triangles
 	-> 3 / 8 (2019.04.06)
+
+## Codeforces Round #552 (Div. 3)
+	A. Restoring Three Numbers
+	B. Make Them Equal
+	C. Gourmet Cat
+	D. Walking Robot
+	E. Two Teams (TLE)
+	-> 4 / 7 (2019.04.16)
 	
 # Practice
 ## Codeforces Round #544 (Div. 3)
