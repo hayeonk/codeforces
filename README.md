@@ -29,7 +29,14 @@
 	C. Gourmet Cat
 	D. Walking Robot
 	E. Two Teams (TLE)
-	-> 4 / 7 (2019.04.16)
+	-> 4 / 7 (2019.04.16
+	
+## Codeforces Round #553 (Div. 2)
+	A. Maxim and Biology
+	B. Dima and a Bad XOR
+	C. Problem for Nazar
+	D. Stas and the Queue at the Buffet
+	-> 3 / 6 (2019.04.18)
 	
 # Practice
 ## Codeforces Round #544 (Div. 3)
