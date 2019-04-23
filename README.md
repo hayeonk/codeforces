@@ -38,6 +38,13 @@
 	D. Stas and the Queue at the Buffet
 	-> 3 / 6 (2019.04.18)
 	
+## Educational Codeforces Round 63 (Rated for Div. 2)
+	A. Reverse a Substring
+	B. Game with Telephone Numbers
+	C. Alarm Clocks Everywhere
+	D. Beautiful Array
+	-> 3 / 6 (2019.04.22)
+	
 # Practice
 ## Codeforces Round #544 (Div. 3)
 	A. Middle of the Contest
