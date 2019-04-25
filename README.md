@@ -44,6 +44,13 @@
 	C. Alarm Clocks Everywhere
 	D. Beautiful Array
 	-> 3 / 6 (2019.04.22)
+
+## Codeforces Round #554 (Div. 2)
+	A. Neko Finds Grapes
+	B. Neko Performs Cat Furrier Transform
+	C. Neko does Maths
+	D. Neko and Aki's Prank (TLE)
+	-> 2 / 7 (2019.04.24)
 	
 # Practice
 ## Codeforces Round #544 (Div. 3)
