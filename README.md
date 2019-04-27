@@ -51,6 +51,15 @@
 	C. Neko does Maths
 	D. Neko and Aki's Prank (TLE)
 	-> 2 / 7 (2019.04.24)
+
+## Codeforces Round #555 (Div. 3)
+	A. Reachable Numbers
+	B. Long Number
+	C1. Increasing Subsequence (easy version)
+	C2. Increasing Subsequence (hard version)
+	D. N Problems During K Days
+	E. Minimum Array (TLE)
+	-> 4 / 8 (2019.04.27)
 	
 # Practice
 ## Codeforces Round #544 (Div. 3)
