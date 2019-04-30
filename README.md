@@ -60,6 +60,13 @@
 	D. N Problems During K Days
 	E. Minimum Array (TLE)
 	-> 4 / 8 (2019.04.27)
+
+## Codeforces Round #556 (Div. 2)
+	A. Stock Arbitraging
+	B. Tiling Challenge
+	C. Prefix Sum Primes
+	D. Three Religions (maximum recursion depth exceeded)
+	-> 3 / 5 (2019.04.29)
 	
 # Practice
 ## Codeforces Round #544 (Div. 3)
