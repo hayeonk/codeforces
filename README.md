@@ -67,6 +67,12 @@
 	C. Prefix Sum Primes
 	D. Three Religions (maximum recursion depth exceeded)
 	-> 3 / 5 (2019.04.29)
+
+## Educational Codeforces Round 64 (Rated for Div. 2)
+	A. Inscribed Figures
+	B. Ugly Pairs
+	C. Match Points
+	-> 2 / 7 (2019.05.01)
 	
 # Practice
 ## Codeforces Round #544 (Div. 3)
