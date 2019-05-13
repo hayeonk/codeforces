@@ -74,6 +74,13 @@
 	C. Match Points
 	-> 2 / 7 (2019.05.01)
 	
+## Codeforces Round #558 (Div. 2)
+	A. Eating Soup
+	B1. Cat Party (Easy Edition)
+	C1. Power Transmission (Easy Edition)
+	C2. Power Transmission (Hard Edition)
+	-> 2 / 8 (2019.05.10)
+	
 # Practice
 ## Codeforces Round #544 (Div. 3)
 	A. Middle of the Contest
@@ -111,3 +118,8 @@
 	B. Array K-Coloring
 	C. Doors Breaking and Repairing
 	D. Balanced Ternary String
+	
+## Codeforces Round #559 (Div. 2)
+	A. A pile of stones
+	B. Expansion coefficient of the array
+	C. The Party and Sweets
