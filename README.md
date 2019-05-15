@@ -81,6 +81,14 @@
 	C2. Power Transmission (Hard Edition)
 	-> 2 / 8 (2019.05.10)
 	
+## Codeforces Round #560 (Div. 3)
+	A. Remainder
+	B. Polycarp Training
+	C. Good String
+	D. Almost All Divisors
+	E. Two Arrays and Sum of Functions
+	-> 4 / 7 (2019.05.14)
+	
 # Practice
 ## Codeforces Round #544 (Div. 3)
 	A. Middle of the Contest
