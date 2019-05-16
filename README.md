@@ -89,6 +89,13 @@
 	E. Two Arrays and Sum of Functions
 	-> 4 / 7 (2019.05.14)
 	
+## Educational Codeforces Round 65 (Rated for Div. 2)
+	A. Telephone Number
+	B. Lost Numbers
+	C. News Distribution
+	D. Bicolored RBS
+	-> 4 / 7 (2019.05.15)
+
 # Practice
 ## Codeforces Round #544 (Div. 3)
 	A. Middle of the Contest
