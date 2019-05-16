@@ -138,3 +138,8 @@
 	A. A pile of stones
 	B. Expansion coefficient of the array
 	C. The Party and Sweets
+	
+## Codeforces Round #557 (Div. 2) [based on Forethought Future Cup - Final Round]
+	A. Zoning Restrictions Again
+	B. Double Matrix
+	C. Hide and Seek
