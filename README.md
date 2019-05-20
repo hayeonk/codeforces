@@ -96,6 +96,12 @@
 	D. Bicolored RBS
 	-> 4 / 7 (2019.05.15)
 
+## Codeforces Round #561 (Div. 2) 
+	A. Silent Classroom
+	B. All the Vowels Please
+	C. A Tale of Two Lands
+	-> 3 / 6 (2019.05.18)
+	
 # Practice
 ## Codeforces Round #544 (Div. 3)
 	A. Middle of the Contest
@@ -143,3 +149,9 @@
 	A. Zoning Restrictions Again
 	B. Double Matrix
 	C. Hide and Seek
+
+## Codeforces Round #551 (Div. 2)
+	A. Serval and Bus
+	B. Serval and Toy Bricks
+	C. Serval and Parenthesis Sequence
+	D. Serval and Rooted Tree
